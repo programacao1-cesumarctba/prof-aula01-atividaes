@@ -24,19 +24,21 @@ e escreva se o numero é par ou impar.
 	
 5 - Crie uma classe chamada Bhaskara, e um programa que importe essa classe para um main e a excute. A classe deve atender os seguintes parametros:
 
-Atributos:
-valorA
-valorB
-valorC
-Metodos:
-calcDelta
-calcX
-classificacao
+### Atributos:
+. valorA
+. valorB
+. valorC
+### Metodos:
+. calcDelta
+. calcX
+. classificacao
+	
 A classe Bhaskara deve receber os 3 valor no seu construtor e no contrutor deve chamar o metodo caclDelta e depois calcX que deve retornar os valores de X linha e X duas linhas. Atente-se para a classificação da formula:
 
-Se Δ < 0, a equação do segundo grau não possui raízes reais;
-Se Δ = 0, a equação do segundo grau possui uma raiz real;
-Se Δ > 0, a equação do segundo grau possui duas raízes reais. Formula link -> https://static.mundoeducacao.bol.uol.com.br/mundoeducacao/conteudo/formula-de-bhaskara-em-sua-forma-original.jpg
+* Se Δ < 0, a equação do segundo grau não possui raízes reais;
+* Se Δ = 0, a equação do segundo grau possui uma raiz real;
+* Se Δ > 0, a equação do segundo grau possui duas raízes reais. 
+* Formula link -> https://static.mundoeducacao.bol.uol.com.br/mundoeducacao/conteudo/formula-de-bhaskara-em-sua-forma-original.jpg
 
 
 
